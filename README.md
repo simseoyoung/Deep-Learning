@@ -4,5 +4,6 @@
 - Linear regression
   1) 단일 회귀
   2) 다중 회귀
-- Classification
+- Logistic Regression
+  1) Binary Classification
 ## CH 2) Feedforward Nets
