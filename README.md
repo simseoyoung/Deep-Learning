@@ -7,3 +7,8 @@
 - Logistic Regression
   1) Binary Classification
 ## CH 2) Feedforward Nets
+- Perceptron
+- Multilayer Perceptron (MLP)
+- Error Backpropagation
+## CH 3) Training
+- 
