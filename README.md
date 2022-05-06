@@ -11,4 +11,15 @@
 - Multilayer Perceptron (MLP)
 - Error Backpropagation
 ## CH 3) Training
-- 
+- Optimization
+- Dropout
+- Batch Normalization
+## CH 4) CNN
+- Vanilla CNN
+- ResNet
+- Inception Nets
+## CH 5) RNN
+- Vanilla RNN
+- LSTM & GRU
+- Attention
+- Transformer
