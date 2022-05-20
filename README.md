@@ -23,3 +23,15 @@
 - LSTM & GRU
 - Attention
 - Transformer
+## CH 6) AutoEncoder
+- Autoencoders
+- Variational Autoencoders (VAE)
+- Neural Statisticians
+## CH 7) GAN
+- Adversarial training for GAN
+- Conditional GANs
+- Info GAN
+## CH 8) Hyperparameter Optimization
+- GP regression
+- Neural process
+- Bayesian Optimization
