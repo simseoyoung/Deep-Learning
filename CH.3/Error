@@ -1,6 +1,0 @@
-## Error
-- MNIST file 안열림
-: tensorflow install 후 from tensorflow import keras로 
-  mnist = keras.datasets.mnist
-  (x_train, y_train), (x_test, y_test) = mnist.load_data()
-- pickle 오류
