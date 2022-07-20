@@ -1,12 +1,6 @@
 # Maze World - Assignment 2
 Assignment code for course ECE 457C at the University of Waterloo in Spring 2022.
 
-**Due Date:** *July 17*, 2021 by 11:59pm submitted as a PDF report submitted to Crowdmark (link will be emailed) and code submitted to the LEARN dropbox for your group.
-
-**Collaboration:** You can discuss solutions and help to work out the code. But the work of the assignemnt must be done either *alone* or in a group of just *two people*. All code and writing will be cross-checked against each other and against internet databases for cheating. Some components of the solution will be graded automatically, so make sure to adhere to the given API. If you are doing the assignment alone, you still need to join a group on LEARN in order to get a dropbox. If you are working with a partner then you need to sign up for a group on LEARN and Crowdmark to link your submissions.
-
-Updates to code which will be useful for all or bugs in the provided code will be updated on gitlab and announced.
-
 ## Domain Description - GridWorld
 
 The domain consists of a 10x10 grid of cells. The agent being controlled is represented as a red square. The goal is a yellow oval and you receive a reward of 1 for reaching it, this ends and resets the episode.
